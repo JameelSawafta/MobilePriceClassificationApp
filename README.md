@@ -1,4 +1,4 @@
-# api_for_ml
+# MobilePriceClassificationApp
 
 A new Flutter project.
 
