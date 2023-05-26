@@ -1,16 +1,15 @@
-# api_for_ml
+# MobilePriceClassificationApp
 
 A new Flutter project.
 
-## Getting Started
+![image](https://github.com/JameelSawafta/MobilePriceClassificationApp/assets/97611802/cab03314-093c-464f-917f-ef0167c4f5fb)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/JameelSawafta/MobilePriceClassificationApp/assets/97611802/d1b92750-c22f-4026-9de2-8fd679204636)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/JameelSawafta/MobilePriceClassificationApp/assets/97611802/63080921-ede6-41e2-ba7f-7aed7b90fa99)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/JameelSawafta/MobilePriceClassificationApp/assets/97611802/321ef3b3-e1f9-472f-b1ef-4db8c0f1b7a2)
+
+![image](https://github.com/JameelSawafta/MobilePriceClassificationApp/assets/97611802/f960eb70-5416-4056-be82-eb02e369417a)

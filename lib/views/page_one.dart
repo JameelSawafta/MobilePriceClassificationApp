@@ -206,7 +206,7 @@ class _PageOneState extends State<PageOne> {
                           builder: (context) {
                             return AlertDialog(
                               title: Text('Prediction Result'),
-                              content: Text('Prediction: $prediction'),
+                              content: Text('Price : $prediction'),
                               actions: [
                                 TextButton(
                                   onPressed: () {
